@@ -15,6 +15,7 @@
 		1F2989201EB39660007AD771 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F29891E1EB39660007AD771 /* LaunchScreen.storyboard */; };
 		1F29892B1EB39660007AD771 /* CatYearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F29892A1EB39660007AD771 /* CatYearsTests.swift */; };
 		1F2989361EB39660007AD771 /* CatYearsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2989351EB39660007AD771 /* CatYearsUITests.swift */; };
+		1F2989441EB39D3C007AD771 /* cat.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 1F2989431EB39D3C007AD771 /* cat.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1F2989311EB39660007AD771 /* CatYearsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CatYearsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F2989351EB39660007AD771 /* CatYearsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatYearsUITests.swift; sourceTree = "<group>"; };
 		1F2989371EB39660007AD771 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F2989431EB39D3C007AD771 /* cat.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat.JPG; path = ../../../photo/Cat/cat.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1F2989141EB39660007AD771 /* ViewController.swift */,
 				1F2989161EB39660007AD771 /* Main.storyboard */,
 				1F29891C1EB39660007AD771 /* Assets.xcassets */,
+				1F2989431EB39D3C007AD771 /* cat.JPG */,
 				1F29891E1EB39660007AD771 /* LaunchScreen.storyboard */,
 				1F2989211EB39660007AD771 /* Info.plist */,
 				1F2989191EB39660007AD771 /* CatYears.xcdatamodeld */,
@@ -238,6 +241,7 @@
 				1F2989201EB39660007AD771 /* LaunchScreen.storyboard in Resources */,
 				1F29891D1EB39660007AD771 /* Assets.xcassets in Resources */,
 				1F2989181EB39660007AD771 /* Main.storyboard in Resources */,
+				1F2989441EB39D3C007AD771 /* cat.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
